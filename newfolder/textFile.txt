@@ -1,0 +1,8 @@
+This is a sample test text file that the python program will
+search through, using REGEX to find any words that the user specifies.
+
+The python script will then return a list or dictionary of the found matching phrases and where they are located? maybe? i don't know. 
+
+it can push these to a new file or print to screen. we'll work on that later. hopefully this is enough text to be a solid sample textfile.
+
+the end.
